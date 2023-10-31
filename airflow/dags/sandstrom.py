@@ -13,7 +13,7 @@ args = {
 }
 
 # Создаем новый DAG в Airflow с указанным идентификатором, аргументами по умолчанию и без интервала выполнения
-with DAG(dag_id='iris_score', default_args=args, schedule_interval=None, tags=['iris']) as dag:
+with DAG(dag_id='sandstorm_score', default_args=args, schedule=None, tags=['sandstorm_Хакатон']) as dag:
     # Определяем каждую задачу как BashOperator, предоставляя идентификатор задачи и команду Bash для выполнения
 
     # Задача для получения данных (Запускает скрипт Python get_data.py)
@@ -23,7 +23,7 @@ with DAG(dag_id='iris_score', default_args=args, schedule_interval=None, tags=['
 
     # Задача для подготовки данных (Запускает скрипт Python preprocess_data.py)
     prepare_data = BashOperator(task_id='prepare_data',
-        bash_command='python3 /home/anton/mlops3/scripts/preprocess_data.py',
+        bash_command='python3 /home/anton/mlops3/scripts/process_data.py',
         dag=dag)
 
     # Задача для разделения данных на обучающую и тестовую выборки (Запускает скрипт Python train_test_split.py)
