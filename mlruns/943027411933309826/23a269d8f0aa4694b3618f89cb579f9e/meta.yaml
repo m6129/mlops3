@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943027411933309826/23a269d8f0aa4694b3618f89cb579f9e/artifacts
+end_time: 1698772111397
+entry_point_name: ''
+experiment_id: '943027411933309826'
+lifecycle_stage: active
+run_id: 23a269d8f0aa4694b3618f89cb579f9e
+run_name: mysterious-finch-453
+run_uuid: 23a269d8f0aa4694b3618f89cb579f9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698772111095
+status: 3
+tags: []
+user_id: anton

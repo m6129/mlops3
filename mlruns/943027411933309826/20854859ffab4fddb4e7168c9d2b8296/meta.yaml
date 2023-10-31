@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943027411933309826/20854859ffab4fddb4e7168c9d2b8296/artifacts
+end_time: 1698771781435
+entry_point_name: ''
+experiment_id: '943027411933309826'
+lifecycle_stage: active
+run_id: 20854859ffab4fddb4e7168c9d2b8296
+run_name: stylish-zebra-738
+run_uuid: 20854859ffab4fddb4e7168c9d2b8296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698771780937
+status: 3
+tags: []
+user_id: anton

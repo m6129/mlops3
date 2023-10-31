@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/649727393959116908/dd21665dc01c4d039b75719fc6584d59/artifacts
+end_time: 1698771786638
+entry_point_name: ''
+experiment_id: '649727393959116908'
+lifecycle_stage: active
+run_id: dd21665dc01c4d039b75719fc6584d59
+run_name: dazzling-crow-260
+run_uuid: dd21665dc01c4d039b75719fc6584d59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698771786578
+status: 3
+tags: []
+user_id: anton

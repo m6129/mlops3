@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635589048894362077/1786a1a4f58d4f4baf99ed33ef34ded3/artifacts
+end_time: 1698762480408
+entry_point_name: ''
+experiment_id: '635589048894362077'
+lifecycle_stage: active
+run_id: 1786a1a4f58d4f4baf99ed33ef34ded3
+run_name: merciful-shrimp-80
+run_uuid: 1786a1a4f58d4f4baf99ed33ef34ded3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762475276
+status: 4
+tags: []
+user_id: anton

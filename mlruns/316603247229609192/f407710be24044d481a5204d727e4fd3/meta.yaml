@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/f407710be24044d481a5204d727e4fd3/artifacts
+end_time: 1698771999940
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: f407710be24044d481a5204d727e4fd3
+run_name: handsome-rook-858
+run_uuid: f407710be24044d481a5204d727e4fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698771999807
+status: 4
+tags: []
+user_id: anton

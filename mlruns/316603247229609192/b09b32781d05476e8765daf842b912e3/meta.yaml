@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/b09b32781d05476e8765daf842b912e3/artifacts
+end_time: 1698771956875
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: b09b32781d05476e8765daf842b912e3
+run_name: adventurous-elk-88
+run_uuid: b09b32781d05476e8765daf842b912e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698771956504
+status: 4
+tags: []
+user_id: anton

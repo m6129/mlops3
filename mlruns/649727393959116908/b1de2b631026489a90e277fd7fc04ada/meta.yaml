@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/649727393959116908/b1de2b631026489a90e277fd7fc04ada/artifacts
+end_time: 1698762969018
+entry_point_name: ''
+experiment_id: '649727393959116908'
+lifecycle_stage: active
+run_id: b1de2b631026489a90e277fd7fc04ada
+run_name: carefree-jay-482
+run_uuid: b1de2b631026489a90e277fd7fc04ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762968858
+status: 3
+tags: []
+user_id: anton

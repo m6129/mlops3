@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/294122143288444615/6ac3adac134d4a809f64dec9e867549e/artifacts
+deleted_time: 1698762932731
+end_time: 1698762641121
+entry_point_name: ''
+experiment_id: '294122143288444615'
+lifecycle_stage: deleted
+run_id: 6ac3adac134d4a809f64dec9e867549e
+run_name: hilarious-shrimp-318
+run_uuid: 6ac3adac134d4a809f64dec9e867549e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762640423
+status: 4
+tags: []
+user_id: anton

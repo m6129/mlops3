@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/294122143288444615/a8acc201560541a3afe8437f55dc8b2e/artifacts
+deleted_time: 1698762932731
+end_time: 1698762795949
+entry_point_name: ''
+experiment_id: '294122143288444615'
+lifecycle_stage: deleted
+run_id: a8acc201560541a3afe8437f55dc8b2e
+run_name: rebellious-whale-990
+run_uuid: a8acc201560541a3afe8437f55dc8b2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762795541
+status: 4
+tags: []
+user_id: anton

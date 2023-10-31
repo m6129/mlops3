@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943027411933309826/f231c0bd48c24b7dac15d3239465ec17/artifacts
+end_time: 1698762945960
+entry_point_name: ''
+experiment_id: '943027411933309826'
+lifecycle_stage: active
+run_id: f231c0bd48c24b7dac15d3239465ec17
+run_name: unequaled-ray-900
+run_uuid: f231c0bd48c24b7dac15d3239465ec17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762945374
+status: 3
+tags: []
+user_id: anton

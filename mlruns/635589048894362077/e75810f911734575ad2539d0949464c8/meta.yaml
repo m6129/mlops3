@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635589048894362077/e75810f911734575ad2539d0949464c8/artifacts
+end_time: 1698772106346
+entry_point_name: ''
+experiment_id: '635589048894362077'
+lifecycle_stage: active
+run_id: e75810f911734575ad2539d0949464c8
+run_name: fun-tern-947
+run_uuid: e75810f911734575ad2539d0949464c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698772088792
+status: 3
+tags: []
+user_id: anton

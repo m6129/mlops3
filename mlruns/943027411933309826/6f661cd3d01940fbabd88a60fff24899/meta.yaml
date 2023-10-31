@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943027411933309826/6f661cd3d01940fbabd88a60fff24899/artifacts
+end_time: 1698762913520
+entry_point_name: ''
+experiment_id: '943027411933309826'
+lifecycle_stage: active
+run_id: 6f661cd3d01940fbabd88a60fff24899
+run_name: delicate-crow-1
+run_uuid: 6f661cd3d01940fbabd88a60fff24899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762912632
+status: 3
+tags: []
+user_id: anton

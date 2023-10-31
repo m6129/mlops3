@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635589048894362077/c93c49679a0f40299ae860fc73a826f2/artifacts
+end_time: 1698762903689
+entry_point_name: ''
+experiment_id: '635589048894362077'
+lifecycle_stage: active
+run_id: c93c49679a0f40299ae860fc73a826f2
+run_name: receptive-shad-413
+run_uuid: c93c49679a0f40299ae860fc73a826f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762897701
+status: 3
+tags: []
+user_id: anton

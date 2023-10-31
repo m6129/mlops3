@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/943027411933309826/6dc7afed76c8470cba52096c1eb8a9f9/artifacts
+end_time: 1698763001894
+entry_point_name: ''
+experiment_id: '943027411933309826'
+lifecycle_stage: active
+run_id: 6dc7afed76c8470cba52096c1eb8a9f9
+run_name: industrious-pug-809
+run_uuid: 6dc7afed76c8470cba52096c1eb8a9f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698763001017
+status: 3
+tags: []
+user_id: anton

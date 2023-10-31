@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/649727393959116908/ca7524183c814e76a30be49afc88f5b7/artifacts
+end_time: 1698772116398
+entry_point_name: ''
+experiment_id: '649727393959116908'
+lifecycle_stage: active
+run_id: ca7524183c814e76a30be49afc88f5b7
+run_name: sincere-ape-597
+run_uuid: ca7524183c814e76a30be49afc88f5b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698772116322
+status: 3
+tags: []
+user_id: anton

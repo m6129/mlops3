@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/2c43a60b1ca54ca7a1dbf488e327564c/artifacts
+end_time: 1698772012060
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: 2c43a60b1ca54ca7a1dbf488e327564c
+run_name: powerful-doe-215
+run_uuid: 2c43a60b1ca54ca7a1dbf488e327564c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698772011627
+status: 3
+tags: []
+user_id: anton

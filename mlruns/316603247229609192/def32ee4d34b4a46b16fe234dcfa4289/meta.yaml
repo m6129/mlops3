@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/def32ee4d34b4a46b16fe234dcfa4289/artifacts
+end_time: 1698771812306
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: def32ee4d34b4a46b16fe234dcfa4289
+run_name: hilarious-snipe-904
+run_uuid: def32ee4d34b4a46b16fe234dcfa4289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698771812183
+status: 4
+tags: []
+user_id: anton

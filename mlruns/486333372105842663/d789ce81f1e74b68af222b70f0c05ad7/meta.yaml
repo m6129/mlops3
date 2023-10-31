@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486333372105842663/d789ce81f1e74b68af222b70f0c05ad7/artifacts
+end_time: 1698762926351
+entry_point_name: ''
+experiment_id: '486333372105842663'
+lifecycle_stage: active
+run_id: d789ce81f1e74b68af222b70f0c05ad7
+run_name: caring-foal-913
+run_uuid: d789ce81f1e74b68af222b70f0c05ad7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762926265
+status: 3
+tags: []
+user_id: anton

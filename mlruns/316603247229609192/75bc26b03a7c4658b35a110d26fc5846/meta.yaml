@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/75bc26b03a7c4658b35a110d26fc5846/artifacts
+end_time: 1698763237759
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: 75bc26b03a7c4658b35a110d26fc5846
+run_name: capricious-lark-884
+run_uuid: 75bc26b03a7c4658b35a110d26fc5846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698763237585
+status: 4
+tags: []
+user_id: anton

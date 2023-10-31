@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635589048894362077/3f6e3152a9114468885fe88a653c0eed/artifacts
+end_time: 1698762689519
+entry_point_name: ''
+experiment_id: '635589048894362077'
+lifecycle_stage: active
+run_id: 3f6e3152a9114468885fe88a653c0eed
+run_name: wise-wasp-399
+run_uuid: 3f6e3152a9114468885fe88a653c0eed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762687699
+status: 3
+tags: []
+user_id: anton

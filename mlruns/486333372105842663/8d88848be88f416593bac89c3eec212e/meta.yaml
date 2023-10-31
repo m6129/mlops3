@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486333372105842663/8d88848be88f416593bac89c3eec212e/artifacts
+end_time: 1698763456113
+entry_point_name: ''
+experiment_id: '486333372105842663'
+lifecycle_stage: active
+run_id: 8d88848be88f416593bac89c3eec212e
+run_name: worried-smelt-484
+run_uuid: 8d88848be88f416593bac89c3eec212e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698763456023
+status: 3
+tags: []
+user_id: anton

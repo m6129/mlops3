@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/5f74333d6c4641558816fc77b0d3541e/artifacts
+end_time: 1698763594075
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: 5f74333d6c4641558816fc77b0d3541e
+run_name: indecisive-snail-788
+run_uuid: 5f74333d6c4641558816fc77b0d3541e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698763593852
+status: 4
+tags: []
+user_id: anton

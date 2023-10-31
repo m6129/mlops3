@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/649727393959116908/a5c3436ac2b24f699f06e7db80a3de8b/artifacts
+end_time: 1698763450925
+entry_point_name: ''
+experiment_id: '649727393959116908'
+lifecycle_stage: active
+run_id: a5c3436ac2b24f699f06e7db80a3de8b
+run_name: legendary-stoat-224
+run_uuid: a5c3436ac2b24f699f06e7db80a3de8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698763450859
+status: 3
+tags: []
+user_id: anton

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/3deea5867aee4033a5f59f39867665c5/artifacts
+end_time: 1698762931394
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: 3deea5867aee4033a5f59f39867665c5
+run_name: receptive-grub-454
+run_uuid: 3deea5867aee4033a5f59f39867665c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762931296
+status: 4
+tags: []
+user_id: anton

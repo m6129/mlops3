@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/ece256fdc62b4c64b7a834ffe14980ce/artifacts
+end_time: 1698762985073
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: ece256fdc62b4c64b7a834ffe14980ce
+run_name: bittersweet-wasp-967
+run_uuid: ece256fdc62b4c64b7a834ffe14980ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698762984813
+status: 4
+tags: []
+user_id: anton

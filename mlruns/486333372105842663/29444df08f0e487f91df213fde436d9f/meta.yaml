@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/486333372105842663/29444df08f0e487f91df213fde436d9f/artifacts
+end_time: 1698763124520
+entry_point_name: ''
+experiment_id: '486333372105842663'
+lifecycle_stage: active
+run_id: 29444df08f0e487f91df213fde436d9f
+run_name: painted-steed-61
+run_uuid: 29444df08f0e487f91df213fde436d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698763124473
+status: 3
+tags: []
+user_id: anton

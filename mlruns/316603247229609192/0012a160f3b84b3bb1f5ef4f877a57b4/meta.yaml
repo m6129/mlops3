@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/316603247229609192/0012a160f3b84b3bb1f5ef4f877a57b4/artifacts
+end_time: 1698763130179
+entry_point_name: ''
+experiment_id: '316603247229609192'
+lifecycle_stage: active
+run_id: 0012a160f3b84b3bb1f5ef4f877a57b4
+run_name: skillful-rat-404
+run_uuid: 0012a160f3b84b3bb1f5ef4f877a57b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698763130055
+status: 4
+tags: []
+user_id: anton
